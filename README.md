@@ -9,4 +9,16 @@ $ocr = $ai->Ocr();
 
 
 #人脸识别
+```
+
+$option = [       
+        "face_field" => "age,beauty,expression,face_shape,gender,glasses,landmark,landmark72,landmark150,race,quality,eye_status,emotion,face_type",
+        "max_face_num" => 1,
+        "face_type" => 'LIVE'
+    ];
+];
+其中url为远程图片地址
 $face = $ai->Face()->detect($url, 'URL', $option);
+```
+        
+
