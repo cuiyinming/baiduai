@@ -1,0 +1,13 @@
+{
+    "name": "cym/baiduai",
+    "description": "baiduai orc and so on",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cuiyinming",
+            "email": "cuiyinming@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
