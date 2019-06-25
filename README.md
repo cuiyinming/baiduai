@@ -3,6 +3,6 @@
 # 安装
 composer require ymc/baiduai
 
-#使用
+# 使用
 $ai = new Ai('app_id', 'api_key', 'api_secret');
 $ocr = $ai->Ocr();
