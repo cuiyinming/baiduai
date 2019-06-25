@@ -2,6 +2,7 @@
     "name": "cym/baiduai",
     "description": "baiduai orc and so on",
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
             "name": "cuiyinming",

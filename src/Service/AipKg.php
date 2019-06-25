@@ -15,9 +15,9 @@
 * the License.
 */
 
-namespace ymc\BaiduAi\Service;
+namespace cym\BaiduAi\Service;
 
-use ymc\BaiduAi\Util\AipBase;
+use cym\BaiduAi\Util\AipBase;
 
 
 class AipKg extends AipBase {

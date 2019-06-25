@@ -15,7 +15,7 @@
 * the License.
 */
 
-namespace ymc\BaiduAi\Service;
+namespace cym\BaiduAi\Service;
 
 /**
  * 内容审核

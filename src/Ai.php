@@ -1,14 +1,14 @@
 <?php
 namespace ymc\BaiduAi;
 
-use ymc\BaiduAi\Service\AipNlp;
-use ymc\BaiduAi\Service\AipSpeech;
-use ymc\BaiduAi\Service\AipFace;
-use ymc\BaiduAi\Service\AipImageCensor;
-use ymc\BaiduAi\Service\AipImageClassify;
-use ymc\BaiduAi\Service\AipKg;
-use ymc\BaiduAi\Service\AipImageSearch;
-use ymc\BaiduAi\Service\AipOcr;
+use cym\BaiduAi\Service\AipNlp;
+use cym\BaiduAi\Service\AipSpeech;
+use cym\BaiduAi\Service\AipFace;
+use cym\BaiduAi\Service\AipImageCensor;
+use cym\BaiduAi\Service\AipImageClassify;
+use cym\BaiduAi\Service\AipKg;
+use cym\BaiduAi\Service\AipImageSearch;
+use cym\BaiduAi\Service\AipOcr;
 
 class Ai
 {

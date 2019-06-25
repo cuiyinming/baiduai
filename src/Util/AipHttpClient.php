@@ -15,7 +15,7 @@
 * the License.
 */
 
-namespace ymc\BaiduAi\Util;
+namespace cym\BaiduAi\Util;
 
 /**
  * Http Client
