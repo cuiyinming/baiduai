@@ -17,7 +17,7 @@
 
 namespace cym\BaiduAi\Service;
 
-use ymc\BaiduAi\Util\AipBase;
+use cym\BaiduAi\Util\AipBase;
 
 
 class AipOcr extends AipBase {

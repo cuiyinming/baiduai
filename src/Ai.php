@@ -1,5 +1,5 @@
 <?php
-namespace ymc\BaiduAi;
+namespace cym\BaiduAi;
 
 use cym\BaiduAi\Service\AipNlp;
 use cym\BaiduAi\Service\AipSpeech;

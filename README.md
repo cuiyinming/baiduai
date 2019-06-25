@@ -6,3 +6,7 @@ composer require cym/baiduai
 # 使用
 $ai = new Ai('app_id', 'api_key', 'api_secret');
 $ocr = $ai->Ocr();
+
+
+#人脸识别
+$face = $ai->Face()->detect($url, 'URL', $option);
